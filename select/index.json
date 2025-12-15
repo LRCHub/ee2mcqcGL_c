@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "2002",
+  "base_artist": "Anne-Marie",
+  "createdAt": "2025-12-15T01:52:04.477283Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "$1000 Wedding (2002 Remaster)",
+      "artist": "Gram Parsons",
+      "has_synced": true,
+      "path": "select/01_$1000_Wedding_(2002_Remaster)_Gram_Parsons.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gold Watch and Chain (2002 Remaster) (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/02_Gold_Watch_and_Chain_(2002_Remaster)_(Remastered_LP_Version)_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Here You Come Again (Single (2002 Remaster))",
+      "artist": "Dolly Parton",
+      "has_synced": true,
+      "path": "select/03_Here_You_Come_Again_(Single_(2002_Remaster))_Dolly_Parton.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Some Old Side Road (Remastered 2002)",
+      "artist": "Keith Whitley",
+      "has_synced": false,
+      "path": "select/04_Some_Old_Side_Road_(Remastered_2002)_Keith_Whitley.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Some Old Side Road (Remastered Single Version) (Single (2002 remaster))",
+      "artist": "Keith Whitley",
+      "has_synced": false,
+      "path": "select/05_Some_Old_Side_Road_(Remastered_Single_Version)_(Single_(2002_remaster))_Keith_Whitley.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Wayfaring Stranger (2002 Remaster) (Remastered LP Version)",
+      "artist": "Emmylou Harris",
+      "has_synced": false,
+      "path": "select/06_Wayfaring_Stranger_(2002_Remaster)_(Remastered_LP_Version)_Emmylou_Harris.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Conversation Piece (written 1969, recorded 1970, re-recorded 2002)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/07_Conversation_Piece_(written_1969,_recorded_1970,_re-recorded_2002)_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Conversation Piece (written 1969, recorded 1970, re-recorded 2002)",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/08_Conversation_Piece_(written_1969,_recorded_1970,_re-recorded_2002)_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hang On To Yourself - Arnold Corns Version; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/09_Hang_On_To_Yourself_-_Arnold_Corns_Version;_2002_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Lady Stardust - Demo; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/10_Lady_Stardust_-_Demo;_2002_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Moonage Daydream - Arnold Corns Version; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/11_Moonage_Daydream_-_Arnold_Corns_Version;_2002_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Moonage Daydream - New Mix; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/12_Moonage_Daydream_-_New_Mix;_2002_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sweet Head - Take 4; 2002 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": false,
+      "path": "select/13_Sweet_Head_-_Take_4;_2002_Remastered_Version_David_Bowie.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Shut 'Em Down 2002",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/14_Shut_'Em_Down_2002_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Ginseng Strip 2002",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/15_Ginseng_Strip_2002_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Soldier Girl (2002 album version)",
+      "artist": "The Polyphonic Spree",
+      "has_synced": false,
+      "path": "select/16_Soldier_Girl_(2002_album_version)_The_Polyphonic_Spree.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Suicide (Live at the Robin Hood R'n'b Club, Brierley Hill, 21/01/2002)",
+      "artist": "Stray",
+      "has_synced": true,
+      "path": "select/17_Suicide_(Live_at_the_Robin_Hood_R'n'b_Club,_Brierley_Hill,_21_01_2002)_Stray.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Do You See The Light Remix 2002",
+      "artist": "Snap vs. Plaything",
+      "has_synced": false,
+      "path": "select/18_Do_You_See_The_Light_Remix_2002_Snap_vs._Plaything.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "2002",
+      "artist": "Anne-Marie",
+      "has_synced": false,
+      "path": "select/pl_01_2002_Anne-Marie.txt"
+    }
+  ]
+}
